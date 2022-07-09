@@ -724,7 +724,7 @@ footer .paragraph p a {
     background: #e4e4e4;
 }
 
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:600px) {
     .header-span {
         margin-right: 20px;
     }
